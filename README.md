@@ -33,3 +33,7 @@ The primary goal of this project is to understand the relationships between vari
 - `Gross`: Revenue of the movie
 - `Company`: The production company
 - `Runtime`: Duration of the movie
+# Usage
+Download the 'csv' file to access the raw dataset and download the '.ipynb' file to visualize and analyze.
+# Exploratory Data Analysis
+1. Overview of the Data
