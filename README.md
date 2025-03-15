@@ -1,6 +1,6 @@
-# Movie-Analysis
+# Movie Analysis
 The project aims to perform Exploratory Data Analysis(EDA) on movies released between 1980-2020
-# Table-Of-Content
+# Table of Content
 - Project Overview
 - Dataset
 - Usage
