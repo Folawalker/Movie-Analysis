@@ -18,3 +18,6 @@ The project aims to perform Exploratory Data Analysis(EDA) on movies released be
 # Project Overview
 The primary goal of this project is to understand the relationships between various factors like budget, revenue, etc and a movie’s performance to help studios make data driven decisions.
 # Dataset
+- `Name`: The title of the movie
+- `Rating`: Rating of the movie (R, PG, etc.)
+- 'Genre`: 
