@@ -20,4 +20,16 @@ The primary goal of this project is to understand the relationships between vari
 # Dataset
 - `Name`: The title of the movie
 - `Rating`: Rating of the movie (R, PG, etc.)
-- 'Genre`: 
+- `Genre`: Main genre of the movie
+- `Year`: Year the movie was released
+- `Released`: The specific date the movie was released
+- `Score`: IMDB user rating
+- `Votes`: Number of user votes
+- `Director`: Movie director
+- `Writer`: Writer of the movie
+- `Star`: Main actor/actress
+- `Country`: Country of origin
+- `Budget`: Movie budget
+- `Gross`: Revenue of the movie
+- `Company`: The production company
+- `Runtime`: Duration of the movie
