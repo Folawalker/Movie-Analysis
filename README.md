@@ -37,3 +37,5 @@ The primary goal of this project is to understand the relationships between vari
 Download the 'csv' file to access the raw dataset and download the '.ipynb' file to visualize and analyze.
 # Exploratory Data Analysis
 ## 1. Overview of the Data
+- Shape of the datase: Check the number of rows and columns.
+- Data Type: Verifying the data type of each column
