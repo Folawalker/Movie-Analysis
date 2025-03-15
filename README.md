@@ -15,3 +15,6 @@ The project aims to perform Exploratory Data Analysis(EDA) on movies released be
   - Company-Wise Analysis
   - Comparative Analysis
 - Contributions
+# Project Overview
+The primary goal of this project is to understand the relationships between various factors like budget, revenue, etc and a movie’s performance to help studios make data driven decisions.
+# Dataset
